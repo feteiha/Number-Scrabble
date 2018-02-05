@@ -1,4 +1,4 @@
-# Numbers-Scrabble
+# Number Scrabble
 A 2 player game based on Math.
 Number Scrabble is played with the list of numbers between 1 and 9.
 Each player takes turns picking a number from the list.
